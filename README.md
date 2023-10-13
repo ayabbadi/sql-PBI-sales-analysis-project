@@ -20,7 +20,6 @@ Ce projet consiste à créer un tableau de bord interactif pour l'analyse des ve
 - `sql scripts` : Contient les scripts SQL pour l'extraction et la transformation des données.
 - `Exported data files` : Emplacement des fichiers CSV exportés.
 - `Sales-Analysis.pbix` : Dashboard Power BI. <br>
-## dashboard overview
-![sales overview](/dashboard img/sales overview.PNG)
+
 
 
