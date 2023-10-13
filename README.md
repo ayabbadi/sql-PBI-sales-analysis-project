@@ -1,4 +1,4 @@
-# sql-PBI-sales-analysis-project // Tableau de Bord d'Analyse des Ventes
+# sql-PBI-sales-analysis-project 
 
 Ce projet consiste à créer un tableau de bord interactif pour l'analyse des ventes en utilisant différentes technologies. Voici un aperçu des principales étapes du projet :
 
@@ -19,7 +19,6 @@ Ce projet consiste à créer un tableau de bord interactif pour l'analyse des ve
 
 - `sql scripts` : Contient les scripts SQL pour l'extraction et la transformation des données.
 - `Exported data files` : Emplacement des fichiers CSV exportés.
-- `Sales-Analysis.pbix` : Dashboard Power BI. <br>
+- `Sales-Analysis.pbix` : Dashboard Power BI.
 
-
-
+![sales overview](https://github.com/ayabbadi/sql-PBI-sales-analysis-project/assets/82125470/afdb2dcd-e8e1-4459-9874-6946bef1b8ab)
